@@ -5,10 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Carlos+Franco.;I'm+Development+Software." alt="Typing SVG" />
 </a>
 <br>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-
 
 <br>
 
@@ -36,7 +32,7 @@
 
 - **Languages**:
     
-  <p align="center">
+  <p align="left">
       <img src="https://skillicons.dev/icons?i=java,js,ts,cs,python" />
   </p>
 
@@ -44,12 +40,12 @@
     ## 🚀 Frameworks, Librarys & Technologies
 
 ### 🎨 Frontend
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,bootstrap" />
   <img src="https://skillicons.dev/icons?i=materialui" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=jest" />
 </p>
 
@@ -57,14 +53,14 @@
 ---
 
 ### ⚙️ Backend
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=spring,express,dotnet" />
 </p>
 
 ---
 
 ### 🗄️ Database
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite" />
 </p>
 
@@ -73,7 +69,7 @@
 ---
 
 ### 🔧 Otras habilidades
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,firebase" />
 </p>
 
@@ -89,13 +85,6 @@
 <br>
 <div align='left'>
 
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
 
 <br>
 
