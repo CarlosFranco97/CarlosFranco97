@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi , I'm Carlos Franco </b></h1>
 <br>
- <a href="https://git.io/typing-svg">
+ <a href="https://git.io/typing-svg" align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Carlos+Franco.;I'm+Development+Software." alt="Typing SVG" />
 </a>
 <br>
@@ -37,9 +37,9 @@
   </p>
 
 <br>   
-    ## 🚀 Frameworks, Librarys & Technologies
+## Frameworks, Librarys & Technologies
 
-### 🎨 Frontend
+### Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,bootstrap" />
   <img src="https://skillicons.dev/icons?i=materialui" />
@@ -52,14 +52,14 @@
 ⚡ In addition: Chakra UI, Axios, React Testing Library
 ---
 
-### ⚙️ Backend
+### Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=spring,express,dotnet" />
 </p>
 
 ---
 
-### 🗄️ Database
+### Database
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite" />
 </p>
@@ -68,7 +68,7 @@
 
 ---
 
-### 🔧 Otras habilidades
+### Other skills
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,firebase" />
 </p>
