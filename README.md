@@ -73,12 +73,11 @@
   <img src="https://skillicons.dev/icons?i=git,firebase" />
 </p>
 
-⚡ In addition: Metodología ágil **SCRUM**
+⚡ In addition: Agile methodology **SCRUM**
 
 
 -----
 
-<br>
 <br>
 
 ## <b> Let's Connect!</b>
@@ -87,8 +86,6 @@
 
 
 <br>
-
-<li>
 <p align="center">
   <a href="mailto:carlosfranco63@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
