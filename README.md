@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Carlos Franco </b></h1>
 <br>
  <a href="https://git.io/typing-svg" align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Carlos+Franco.;I'm+Development+Software." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Carlos+Franco.;I'm+Software+Development" alt="Typing SVG" />
 </a>
 <br>
 
