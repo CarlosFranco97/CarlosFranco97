@@ -1,6 +1,10 @@
 
-<h1 align="center"><b>Hi , I'm Carlos Franco </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<h1 align="center"><b>Hi , I'm Carlos Franco </b></h1>
+<br>
+ <a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Carlos+Franco.;I'm+Development+Software." alt="Typing SVG" />
+</a>
+<br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
@@ -11,15 +15,10 @@
 ## About me:
 
 <p>I specialize in software development with a focus on scalability, performance, and maintainability. I use Clean Architecture to ensure that the code is modular, easy to test, and adaptable to future changes. In addition, I have experience in developing independent and collaborative projects, where I have implemented complete solutions from scratch, optimizing both structure and functionality. For collaborative projects, I use Git Flow to ensure an organized and efficient workflow.
-
-Translated with DeepL.com (free version)</p>
+</p>
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Carlos+Franco.;I'm+Development+Software." alt="Typing SVG" />
-</a>
 
 <br>
 
